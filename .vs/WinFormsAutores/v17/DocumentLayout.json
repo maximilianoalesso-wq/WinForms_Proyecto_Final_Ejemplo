@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\codigos\\WinFormsAutores2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|c:\\temp\\codigos\\winformsautores2\\winformsautores\\autoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|solutionrelative:winformsautores\\autoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|c:\\temp\\codigos\\winformsautores2\\winformsautores\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|solutionrelative:winformsautores\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|c:\\temp\\codigos\\winformsautores2\\winformsautores\\buscarautorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|solutionrelative:winformsautores\\buscarautorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|C:\\Temp\\codigos\\WinFormsAutores2\\winformsautores\\buscarautorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|solutionrelative:winformsautores\\buscarautorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|C:\\Temp\\codigos\\WinFormsAutores2\\winformsautores\\autoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|solutionrelative:winformsautores\\autoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|c:\\temp\\codigos\\winformsautores2\\winformsautores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|solutionrelative:winformsautores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|C:\\Temp\\codigos\\WinFormsAutores2\\winformsautores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB28C4AA-2B94-4FB0-A4EF-EC2E45F8CD9E}|WinFormsAutores\\WinFormsAutores.csproj|solutionrelative:winformsautores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscarAutorForm.cs",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\BuscarAutorForm.cs",
+              "RelativeDocumentMoniker": "WinFormsAutores\\BuscarAutorForm.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\BuscarAutorForm.cs",
+              "RelativeToolTip": "WinFormsAutores\\BuscarAutorForm.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwDwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:48:17.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuscarAutorForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\BuscarAutorForm.cs",
+              "RelativeDocumentMoniker": "WinFormsAutores\\BuscarAutorForm.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WinFormsAutores\\WinFormsAutores\\BuscarAutorForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsAutores\\WinFormsAutores\\BuscarAutorForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:41:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoresForm.cs",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\AutoresForm.cs",
+              "RelativeDocumentMoniker": "WinFormsAutores\\AutoresForm.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\AutoresForm.cs",
+              "RelativeToolTip": "WinFormsAutores\\AutoresForm.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAUwHsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:43:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoresForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\AutoresForm.cs",
+              "RelativeDocumentMoniker": "WinFormsAutores\\AutoresForm.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WinFormsAutores\\WinFormsAutores\\AutoresForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsAutores\\WinFormsAutores\\AutoresForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:35:39.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entidades.cs",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\Entidades.cs",
+              "RelativeDocumentMoniker": "WinFormsAutores\\Entidades.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\Entidades.cs",
+              "RelativeToolTip": "WinFormsAutores\\Entidades.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:28:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAutores\\Form1.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\Form1.cs",
+              "RelativeToolTip": "WinFormsAutores\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:20:20.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Temp\\codigos\\WinFormsAutores2\\WinFormsAutores\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAutores\\Form1.cs",
+              "ToolTip": "C:\\Temp\\codigos\\WinFormsAutores\\WinFormsAutores\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\WinFormsAutores\\WinFormsAutores\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:17:18.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
